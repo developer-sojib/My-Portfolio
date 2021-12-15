@@ -67,8 +67,9 @@ const AboutPage = () => {
           <img src={astronaut} alt="spaceman" />
         </Spaceman>
         <Main>
-          I'm a front-end developer located in Sylhet, Bangladesh. I love to
-          create simple yet beautiful websites with great user experience.
+          I'm Abdul Awal Sojib, a front-end developer located in Sylhet,
+          Bangladesh. I love to create simple yet beautiful websites with great
+          user experience.
           <br /> <br />
           I'm interested in the whole frontend stack Like trying new things and
           building great projects. I'm an independent freelancer and blogger. I
